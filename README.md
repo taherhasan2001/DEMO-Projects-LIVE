@@ -12,4 +12,4 @@ built using React
 built using html,css and js
 
 
-* BZU MAP (still working on it) : https://taherhasan2001.github.io/BZU-MAP-2/
+* BZU MAP (still working on it) : [https://taherhasan2001.github.io/BZU-MAP-2/](https://taherhasan2001.github.io/map-open/)
