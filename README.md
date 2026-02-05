@@ -1,4 +1,4 @@
-# Special-Projects-Links
+# Special-Projects-demo-live
 
 
 * Birzeit University schedule generator (V2): https://taherhasan2001.github.io/BZU/
